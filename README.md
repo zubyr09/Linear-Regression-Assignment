@@ -5,6 +5,17 @@ This repository contains my implementation of the **Linear Regression** assignme
 ## Introduction
 **Linear Regression** is a fundamental algorithm in Supervised machine learning used to model the relationship between a dependent variable (Target) and one or more independent variables (Features). This Assignment focuses on implementing **Linear Regression** with one variable from scratch using *NumPy* & & *Matplotlib* to predict profits for a **Restaurant Franchise**.
 
+## Datasets
+The datasets are stored in the `Dataset` branch. Click the filenames below to download them directly:
+
+1. **[ex1data1.txt](https://github.com/zubyr09/Linear-Regression-Assignment/raw/dataset/ex1data1.txt)**  
+   - **Univariate dataset**: Predict profit based on population size.  
+   - Columns: `Population` (feature), `Profit` (target).  
+
+2. **[ex1data2.txt](https://github.com/zubyr09/Linear-Regression-Assignment/raw/dataset/ex1data2.txt)**  
+   - **Multivariate dataset**: Predict house prices based on size and bedrooms.  
+   - Columns: `Size` (sq-ft), `Bedrooms`, `Price` (target).  
+
 ## Implementation
 ### Code File: `Linear_Regression_Code.ipynb`
 The Jupyter Notebook [`Linear_Regression_Code.ipynb`](Linear_Regression_Code.ipynb) contains the full implementation of the assignment, including:
