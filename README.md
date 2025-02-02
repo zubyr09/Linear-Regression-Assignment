@@ -3,7 +3,7 @@
 This repository contains my implementation of the **Linear Regression** assignment from the <a href="https://www.coursera.org/learn/machine-learning" target="_blank" rel="noopener noreferrer">Supervised Machine Learning course by Andrew Ng on Coursera</a>. The goal of this assignment is to implement **Linear Regression** from scratch and apply it to a dataset to predict outcomes based on input features.
 
 ## Introduction
-**Linear Regression** is a fundamental algorithm in Supervised machine learning used to model the relationship between a dependent variable (Target) and one or more independent variables (Features). This Assignment focuses on implementing **Linear Regression** with one variable from scratch using *NumPy* & & *Matplotlib* to predict profits for a **Restaurant Franchise**.
+**Linear Regression** is a fundamental algorithm in Supervised machine learning used to model the relationship between a dependent variable (Target) and one or more independent variables (Features). This Assignment focuses on implementing **Linear Regression** with one variable from scratch using *NumPy* & & *Matplotlib* to predict profits for a **Restaurant Franchise**, & then it goes on to predict **Housing Prices**.
 
 ## Datasets
 The datasets are stored in the `Dataset` branch. Click the filenames below to download them directly:
