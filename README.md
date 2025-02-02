@@ -15,8 +15,9 @@ The Jupyter Notebook [`Linear_Regression_Code.ipynb`](Linear_Regression_Code.ipy
 
 ## Coursera Certifications
 - **<a href="https://www.coursera.org/learn/machine-learning" target="_blank" rel="noopener noreferrer">Supervised Machine Learning</a>**
+
   Issued by: [Coursera](https://www.coursera.org)  
-  Verification Link: <a href="[https://www.coursera.org/account/accomplishments/verify/AXA9FRPQZKW5]" target="_blank" rel="noopener 
+  Verification Link: <a href="https://www.coursera.org/account/accomplishments/verify/AXA9FRPQZKW5" target="_blank" rel="noopener 
   noreferrer">Verify Certificate</a>  
-  Certificate:  
-  [![Certificate Preview](certificates/certificate_preview.png)](certificates/C:\Users\HP\OneDrive\Desktop\Coursera\Supervised Machine Learning\Certificate.pdf)
+    
+  
